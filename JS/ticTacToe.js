@@ -82,6 +82,7 @@ const tic_tac_toe = {
         this.board.fill('');
         this.draw();
         this.gameover = false
+        
     },
 
     restart() {
